@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "framework": "other",
+  "installCommand": "echo 'Skipping install step, dependencies are managed via importmap.'",
+  "buildCommand": "echo 'No build command needed, serving static files.'"
+}
